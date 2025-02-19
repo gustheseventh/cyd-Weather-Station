@@ -1,4 +1,4 @@
-This is not my code, you can fine the original article at [Random Nerd Tutorials](https://RandomNerdTutorials.com/esp32-cyd-lvgl-weather-station/)
+This is not my code, you can find the original article at [Random Nerd Tutorials](https://RandomNerdTutorials.com/esp32-cyd-lvgl-weather-station/)
 I made this repo to make it simpler as they left a few things
 
 
